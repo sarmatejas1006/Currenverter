@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrenVerter</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="currency">
+        <item>US Dollar</item>
+        <item>Euro</item>
+        <item>Pound Sterling</item>
+        <item>Japanese Yen</item>
+        <item>Australian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Canadian Dollar</item>
+        <item>Singapore Dollar</item>
+        <item>Chinese Yuan</item>
+        <item>Indian Rupee</item>
+        <item>UAE Dirham</item>
+        <item>Kuwaiti Dinar</item>
+    </string-array>
+</resources>
